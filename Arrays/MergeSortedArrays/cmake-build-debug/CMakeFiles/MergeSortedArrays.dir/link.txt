@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/MergeSortedArrays.dir/main.cpp.o  -o MergeSortedArrays 
